@@ -1,0 +1,20 @@
+# Maven / Java
+target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+*.class
+*.log
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Allow dist JARs to be committed
+!dist/
+!dist/*.jar
